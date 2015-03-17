@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMSCE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_event">Events</string>
+    <string name="title_activity_project">Projects</string>
+    <string name="title_activity_publication">Publications</string>
+    <string name="title_activity_about">About Us</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_project_display">Projects</string>
+    <string name="title_activity_publication_display">Publications</string>
+    <string name="title_activity_event_display">Events</string>
+    <string name="title_activity_setting">Settings</string>
+
+</resources>
